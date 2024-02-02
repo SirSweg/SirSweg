@@ -1,0 +1,2 @@
+- Current CS Student At IUB
+- Passion for Machine Learning, Game Development, FinTech
